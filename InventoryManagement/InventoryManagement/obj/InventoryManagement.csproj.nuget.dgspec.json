@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\InventoryManagement.csproj": {}
+    "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\InventoryManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\InventoryManagement.csproj": {
+    "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\InventoryManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\InventoryManagement.csproj",
+        "projectUniqueName": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\InventoryManagement.csproj",
         "projectName": "InventoryManagement",
-        "projectPath": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\InventoryManagement.csproj",
-        "packagesPath": "C:\\Users\\panka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\obj\\",
+        "projectPath": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\InventoryManagement.csproj",
+        "packagesPath": "C:\\Users\\User 2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\panka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User 2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -45,15 +46,22 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[10.0.5, )"
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.6, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
@@ -85,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300-preview.0.26177.108/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
