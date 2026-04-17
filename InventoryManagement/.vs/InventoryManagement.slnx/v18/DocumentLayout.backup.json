@@ -1,38 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\",
+  "WorkspaceRootPath": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\user 2\\desktop\\assingnment\\invntory management\\project-inventory-management\\inventorymanagement\\inventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\panka\\desktop\\c# project\\project-inventory-management\\inventorymanagement\\inventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\user 2\\desktop\\assingnment\\invntory management\\project-inventory-management\\inventorymanagement\\inventorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\panka\\desktop\\c# project\\project-inventory-management\\inventorymanagement\\inventorymanagement\\controller\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\controller\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\user 2\\desktop\\assingnment\\invntory management\\project-inventory-management\\inventorymanagement\\inventorymanagement\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\panka\\desktop\\c# project\\project-inventory-management\\inventorymanagement\\inventorymanagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\user 2\\desktop\\assingnment\\invntory management\\project-inventory-management\\inventorymanagement\\inventorymanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\panka\\desktop\\c# project\\project-inventory-management\\inventorymanagement\\inventorymanagement\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\user 2\\desktop\\assingnment\\invntory management\\project-inventory-management\\inventorymanagement\\inventorymanagement\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\panka\\desktop\\c# project\\project-inventory-management\\inventorymanagement\\inventorymanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\user 2\\desktop\\assingnment\\invntory management\\project-inventory-management\\inventorymanagement\\inventorymanagement\\dto\\productreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\dto\\productreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\user 2\\desktop\\assingnment\\invntory management\\project-inventory-management\\inventorymanagement\\inventorymanagement\\dto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\panka\\desktop\\c# project\\project-inventory-management\\inventorymanagement\\inventorymanagement\\dto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\dto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\user 2\\desktop\\assingnment\\invntory management\\project-inventory-management\\inventorymanagement\\inventorymanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\panka\\desktop\\c# project\\project-inventory-management\\inventorymanagement\\inventorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\panka\\desktop\\c# project\\project-inventory-management\\inventorymanagement\\inventorymanagement\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\panka\\desktop\\c# project\\project-inventory-management\\inventorymanagement\\inventorymanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\panka\\desktop\\c# project\\project-inventory-management\\inventorymanagement\\inventorymanagement\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\panka\\desktop\\c# project\\project-inventory-management\\inventorymanagement\\inventorymanagement\\dto\\productreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\dto\\productreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,15 +54,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Controller\\ProductsController.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Controller\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Controller\\ProductsController.cs*",
+              "RelativeToolTip": "InventoryManagement\\Controller\\ProductsController.cs*",
+              "ViewState": "AgIAAFYAAAAAAAAAAAA0wHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T01:56:28.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Services\\ProductService.cs*",
+              "RelativeToolTip": "InventoryManagement\\Services\\ProductService.cs*",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAUwJoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T18:54:41.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Services\\IProductService.cs",
+              "RelativeToolTip": "InventoryManagement\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA4wA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T18:25:35.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Program.cs*",
+              "RelativeToolTip": "InventoryManagement\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T17:06:44.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Models\\Product.cs",
+              "RelativeToolTip": "InventoryManagement\\Models\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T00:06:13.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AppDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Data\\AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Data\\AppDbContextFactory.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Data\\AppDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Data\\AppDbContextFactory.cs",
               "RelativeToolTip": "InventoryManagement\\Data\\AppDbContextFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,37 +135,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Program.cs",
-              "RelativeDocumentMoniker": "InventoryManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Program.cs*",
-              "RelativeToolTip": "InventoryManagement\\Program.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T17:06:44.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\appsettings.json",
               "RelativeDocumentMoniker": "InventoryManagement\\appsettings.json",
-              "ToolTip": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\appsettings.json",
               "RelativeToolTip": "InventoryManagement\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-16T17:05:37.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T17:05:37.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Data\\AppDbContext.cs",
               "RelativeToolTip": "InventoryManagement\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -96,11 +159,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ProductReadDto.cs",
-              "DocumentMoniker": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\DTO\\ProductReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\DTO\\ProductReadDto.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTO\\ProductReadDto.cs",
-              "ToolTip": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\DTO\\ProductReadDto.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\DTO\\ProductReadDto.cs",
               "RelativeToolTip": "InventoryManagement\\DTO\\ProductReadDto.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,39 +171,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ProductUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\DTO\\ProductUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\DTO\\ProductUpdateDto.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTO\\ProductUpdateDto.cs",
-              "ToolTip": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\DTO\\ProductUpdateDto.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\DTO\\ProductUpdateDto.cs",
               "RelativeToolTip": "InventoryManagement\\DTO\\ProductUpdateDto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAswAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T00:42:34.725Z"
+              "WhenOpened": "2026-04-16T00:42:34.725Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ProductCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\DTO\\ProductCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\DTO\\ProductCreateDTO.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTO\\ProductCreateDTO.cs",
-              "ToolTip": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\DTO\\ProductCreateDTO.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\C# Project\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\DTO\\ProductCreateDTO.cs",
               "RelativeToolTip": "InventoryManagement\\DTO\\ProductCreateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T00:40:01.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "InventoryManagement\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\User 2\\Desktop\\assingnment\\Invntory Management\\Project-Inventory-Management\\InventoryManagement\\InventoryManagement\\Models\\Product.cs",
-              "RelativeToolTip": "InventoryManagement\\Models\\Product.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T00:06:13.567Z"
             }
           ]
         }

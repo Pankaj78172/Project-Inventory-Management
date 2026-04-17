@@ -2,6 +2,7 @@
 using InventoryManagement.DTO;
 using InventoryManagement.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Security.Cryptography.Xml;
 
 namespace InventoryManagement.Services
 {
@@ -73,6 +74,96 @@ namespace InventoryManagement.Services
             };
 }
 
+
+        public async Task<bool> UpdateProductAsync(int id, ProductUpdateDto dto)
+        {
+            var product = await _context.Products.FirstOrDefaultAsync(x => x.Id == id);
+
+            if(product == null)
+            {
+                return false;
+
+            }
+
+            product.Name = dto.Name;
+            product.Category = dto.Category;
+            product.Price = dto.Price;
+            product.QuantityInStock = dto.QuantityInStock;  
+            product.SupplierName = dto.SupplierName;
+            
+
+            await _context.SaveChangesAsync();
+            
+            return true;
+
+
+        }
+
+        public async Task<bool> DeleteProductAsync(int id) {
+            var deleteProduct = await _context.Products.FirstOrDefaultAsync(d => d.Id == id);
+            if(deleteProduct == null)
+            {
+                return false;
+            }
+
+            _context.Products.Remove(deleteProduct);
+
+            await _context.SaveChangesAsync();
+
+            return true;
+
+        }
+
+        public async Task<IEnumerable<ProductReadDto>> GetProductsByCategoryAsync(string category)
+        {
+            
+            return await _context.Products
+                .Where(x => x.Category == category)
+                .Select(x=> new ProductReadDto
+            {
+                    Id = x.Id,
+                Name = x.Name,
+                Category = x.Category,
+                Price = x.Price,
+                QuantityInStock = x.QuantityInStock,
+                SupplierName = x.SupplierName,
+                CreatedDate = x.CreatedDate,
+            } ).ToListAsync();
+
+
+        }
+
+
+        public async Task<IEnumerable<ProductReadDto>> GetLowStockProductsAsync()
+        {
+            return await _context.Products.Where(x=>x.QuantityInStock > 5)
+                .Select(x => new ProductReadDto
+                {
+                    Id = x.Id,
+                    Name = x.Name,
+                    Category = x.Category,
+                    Price = x.Price,
+                    QuantityInStock = x.QuantityInStock,
+                    SupplierName = x.SupplierName,
+                    CreatedDate = x.CreatedDate,
+                }).ToListAsync();
+        }
+
+        public async Task<IEnumerable<ProductReadDto>> SearchProductsAsync(string name)
+        {
+            return await _context.Products
+                .Where(x => x.Name == name)
+                .Select(x => new ProductReadDto
+            {
+                Id = x.Id,
+                Name = x.Name,
+                Category = x.Category,
+                Price = x.Price,
+                QuantityInStock = x.QuantityInStock,
+                SupplierName = x.SupplierName,
+                CreatedDate = x.CreatedDate,
+            }).ToListAsync();
+        }
 
 
 
