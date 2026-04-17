@@ -101,13 +101,5 @@ namespace InventoryManagement.Controller
 
         }
 
-
-
-
-
-
-
-
-
     
 }

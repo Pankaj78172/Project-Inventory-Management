@@ -297,3 +297,4 @@ C:\Users\panka\Desktop\C# Project\Project-Inventory-Management\InventoryManageme
 C:\Users\panka\Desktop\C# Project\Project-Inventory-Management\InventoryManagement\InventoryManagement\obj\Debug\net10.0\InventoryManagement.pdb
 C:\Users\panka\Desktop\C# Project\Project-Inventory-Management\InventoryManagement\InventoryManagement\obj\Debug\net10.0\InventoryManagement.genruntimeconfig.cache
 C:\Users\panka\Desktop\C# Project\Project-Inventory-Management\InventoryManagement\InventoryManagement\obj\Debug\net10.0\ref\InventoryManagement.dll
+C:\Users\User 2\Desktop\assingnment\Invntory Management\Project-Inventory-Management\InventoryManagement\InventoryManagement\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
